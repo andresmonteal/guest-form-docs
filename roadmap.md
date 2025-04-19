@@ -22,12 +22,12 @@ This document outlines the timeline for the `hotel-open-tools` project, detailin
 
 - ✅ GH-001: Set Up GitHub Organization & Repositories
 - 📌 GH-002: Create Repositories for Different Components
-- 📌 DEV-001: Set Up Development Environment
-- 📌 DEV-002: Configure DevContainers for Repositories
-- 📌 DOC-001: Set Up a Central Documentation Repository
+- ✅ DEV-001: Set Up Development Environment
+- ✅ DEV-002: Configure DevContainers for Repositories
+- ✅ DOC-001: Set Up a Central Documentation Repository
     - 🔗 **GitHub Issue:** [#1-document-user-stories](https://github.com/hotel-open-tools/guest-form-docs/issues/1)
-- 📌 DOC-002: Document the Project’s Architecture & Design
-- 📌 DOC-003: Track and Manage User Stories in GitHub Issues
+- ✅ DOC-002: Document the Project’s Architecture & Design
+- ✅ DOC-003: Track and Manage User Stories in GitHub Issues
 
 ---
 
